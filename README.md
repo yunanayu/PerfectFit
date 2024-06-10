@@ -1,7 +1,7 @@
 ## 🎤 안쏭맞춤 Perfect-fit
-
 <img src='assets/Group 3.png' width=70% height=80%>
 <br />
+### 사용자 자동 음정 맞춤 노래방 서비스 안쏭맞춤 Perfect-Fit 🎙
 
 ## 1️⃣ 프로젝트 개요
 
